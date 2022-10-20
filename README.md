@@ -9,7 +9,7 @@
 
 5- Actividad  - Entendiendo la evolución con [TimeTree](http://www.timetree.org/) (20 min)
 
-6- Actividad [Generando un árbol con Python] (https://colab.research.google.com/drive/1zgp2cqiVxPslmB7M8JVfH7XWMymt9ozV?usp=sharing) (20 min)
+6- Actividad [Generando un árbol con Python](https://colab.research.google.com/drive/1zgp2cqiVxPslmB7M8JVfH7XWMymt9ozV?usp=sharing) (20 min)
 
 7- Actividad [Contenido ATGC](https://colab.research.google.com/drive/1sw_BMBVnkIJaNTsSsuOiq_ZaXvVuI7Os?usp=sharing) (10 min)
 
