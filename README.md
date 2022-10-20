@@ -11,9 +11,9 @@
 
 6- Actividad [Generando un árbol con Python](https://colab.research.google.com/drive/1zgp2cqiVxPslmB7M8JVfH7XWMymt9ozV?usp=sharing) (20 min)
 
-7- Actividad [Contenido ATGC](https://colab.research.google.com/drive/1sw_BMBVnkIJaNTsSsuOiq_ZaXvVuI7Os?usp=sharing) (10 min)
+7- Actividad [Contenido ATGC](https://colab.research.google.com/drive/1sw_BMBVnkIJaNTsSsuOiq_ZaXvVuI7Os?usp=sharing) (5 min)
 
-8- Actividad [Gráficas Contenido ATGC](https://colab.research.google.com/drive/1IQZmtFf6O9c1rKSDzqKYFxgaGzWe3aKL?usp=sharing) (10 min)
+8- Actividad [Gráficas Contenido ATGC](https://colab.research.google.com/drive/1IQZmtFf6O9c1rKSDzqKYFxgaGzWe3aKL?usp=sharing) (15 min)
 
 9 - Actividad - (si vemos que aún hay tiempo) que visualicen una secuencia y le hagan blast
 
